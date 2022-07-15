@@ -1,2 +1,3 @@
 server.key
 server.key.pub
+ssh_honeypot.log
